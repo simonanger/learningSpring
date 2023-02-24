@@ -23,7 +23,7 @@ public class Guest {
     @Column(name="STATE")
     private String state;
     @Column(name="PHONE_NUMBER")
-    private Integer phoneNumber;
+    private String phoneNumber;
 
     public long getId() {
         return id;
@@ -81,11 +81,11 @@ public class Guest {
         this.state = state;
     }
 
-    public Integer getPhoneNumber() {
+    public String getPhoneNumber() {
         return phoneNumber;
     }
 
-    public void setPhoneNumber(Integer phoneNumber) {
+    public void setPhoneNumber(String phoneNumber) {
         this.phoneNumber = phoneNumber;
     }
 
