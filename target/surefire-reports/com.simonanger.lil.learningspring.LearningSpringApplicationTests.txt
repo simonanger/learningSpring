@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.simonanger.lil.learningspring.LearningSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.001 s - in com.simonanger.lil.learningspring.LearningSpringApplicationTests
